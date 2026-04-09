@@ -1,6 +1,6 @@
 #ifndef VOXEL_ENGINE_VERSION_H
 #define VOXEL_ENGINE_VERSION_H
 
-#define VERSION "0.9.0"
+#define VERSION "0.10.0"
 
 #endif
